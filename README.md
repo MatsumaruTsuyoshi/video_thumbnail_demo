@@ -1,6 +1,6 @@
 # thumbnail_demo
 
-A new Flutter application.
+詳細はhttps://matsumarudesu.com/fluuter-video-thumbnail-view/
 
 ## Getting Started
 
